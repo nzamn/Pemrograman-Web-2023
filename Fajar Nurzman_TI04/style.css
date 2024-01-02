@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif;
+}
+fieldset {
+    border-style: solid;
+    border-color: black;
+}
+th {
+    text-align: right;
+}
+button{
+    background-color: orange ;
+    border-style: solid;
+}
